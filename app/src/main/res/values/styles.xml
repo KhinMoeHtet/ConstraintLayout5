@@ -1,0 +1,54 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="title_txt">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">26dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+    <style name="phone_txt">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+    <style name="phone_no_txt">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+    <style name="password_txt">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:alpha">.5</item>
+    </style>
+
+    <style name="connect_txt">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:alpha">.5</item>
+    </style>
+
+    <style name="facebook_txt">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="forget_create_txt">
+        <item name="android:textColor">#FDFDFD</item>
+        <item name="android:textSize">17dp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+</resources>
